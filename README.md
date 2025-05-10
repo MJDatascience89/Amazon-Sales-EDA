@@ -31,7 +31,7 @@ The notebook utilizes the VADER sentiment analysis tool to analyze customer revi
 - Price elasticity is calculated, suggesting potential pricing strategies.
 
 
-
+## Visuals
 
 ![Image](https://github.com/user-attachments/assets/2d198cb8-2511-4a5c-ac3c-a33405881483)
 ![Image](https://github.com/user-attachments/assets/c6ea831a-d52d-4ce2-a99a-ef156894853f)
